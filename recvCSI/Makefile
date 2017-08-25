@@ -1,5 +1,5 @@
 INCLUDE_DIR=$(TOOLCHAIN_DIR)/usr/include
-
+OBJS = csi_fun.o main.o
 CC = mips-openwrt-linux-gcc
 
 CFLAGS= -std=gnu99
