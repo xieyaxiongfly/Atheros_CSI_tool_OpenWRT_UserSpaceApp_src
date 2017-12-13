@@ -20,6 +20,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <fcntl.h>
+#include <sys/types.h>
 
 #include "csi_fun.h"
 
